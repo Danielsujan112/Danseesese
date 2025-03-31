@@ -1,4 +1,4 @@
-# Crear el diccionario inicial con información ficticia
+# Crear el diccionario inicial con información real
 informacion_personal = {
     "nombre": "Norman Hernandez",
     "edad": 30,
